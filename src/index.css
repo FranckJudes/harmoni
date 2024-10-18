@@ -1,0 +1,7 @@
+html, body {
+  margin: 0; /* Supprimer les marges par défaut */
+  padding: 0; /* Supprimer les espacements par défaut */
+  height: 100%; /* Assurez-vous que le html et le body occupent 100% de la hauteur */
+  width: 100%; /* Assurez-vous que le html et le body occupent 100% de la largeur */
+  overflow: hidden; /* Empêche le défilement de la page */
+}
